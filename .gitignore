@@ -1,3 +1,5 @@
 # Documents interns (contenen dades personals): no publicar
 *.pdf
+# Materials pedagògics publicats a la Biblioteca oberta
+!recursos/*.pdf
 *.docx

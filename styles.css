@@ -797,6 +797,8 @@ table.data tr:last-child td { border-bottom: none; }
   text-transform: uppercase;
   flex-shrink: 0;
 }
+.download-item a.badge { text-decoration: none; white-space: nowrap; }
+.download-item a.badge:hover { background: var(--solid); color: var(--on-solid); }
 
 /* ===== Agraïments ===== */
 .thanks {
